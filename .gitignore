@@ -1,3 +1,9 @@
 PINN/_overfit_SiLU_end_Tanh/
 PINN/_regular/
 PINN/ocean_posteriors/
+PINN/SiLU_end_Tanh/
+PINN/Dipole*.png
+PINN/Europa*.png
+PINN/ORB*.png
+PINN/ORB*INDUCTION_READY.csv
+PINN/ORB*filtered.csv
